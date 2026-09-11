@@ -1,0 +1,25 @@
+# Xcode 用户数据
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+
+# 构建产物
+build/
+DerivedData/
+*.ipa
+*.app
+*.dSYM
+*.xcarchive
+*.xcbuild
+
+# 系统文件
+.DS_Store
+*.swp
+*~
+
+# 本地环境
+.env
+.env.local
+
+# 本地测试日志
+test-run.log
